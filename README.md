@@ -1,2 +1,4 @@
 # hello-world
-This is an example to test Github functionality 
+Hey everyone!
+
+I'm a creative code girl who is testing this new technology to create new things.
